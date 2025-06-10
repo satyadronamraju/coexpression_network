@@ -3,6 +3,7 @@
 Get the cancer data in our study here: https://files.catbox.moe/nmj4ex.xlsb  
 Get the normal data in our study here: https://files.catbox.moe/33iorg.xlsb  
 These should be named cancer.xlsb for the first one, and normal.xlsb for the second one.  
+Put this in the parent directory.  
   
 The data sources are here for cancer: https://www.linkedomics.org/data_download/TCGA-LUSC/  
 The data sources are here for normal: https://www.gtexportal.org/home/downloads/adult-gtex/bulk_tissue_expression  
